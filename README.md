@@ -3,50 +3,49 @@ Macato allows users to hire a personal chef to come and cook for them at home in
 
 ## ----------------------------------------
 ### User story  📜📋 
-> As a Admin , I will be able to 
+> As an Admin, I will be able to 
 * Owner The Macato-Chef online
-* accapt or reject a chef 
-* add , delete a chef 
-* see profile the chaf 
+* accept or reject a chef 
+* add, delete a chef 
+* see the profile of the chef 
 * see all orders
 * see the menu 
-* edit , delete from menu 
+* edit, delete from the menu 
 * see the total price 
-* dd , edit , delete order form user 
-* control the paymant
-* see feedbacs from users and chefs
+* dd, edit, delete order form user 
+* control the payment
+* see feedback from users and chefs
 
 >As a chef, I will be able to 
-* signup or login. 
-* see my profile as  dashbord. 
+* signup or log in. 
+* see my profile as a dashboard. 
 * add personal info to my profile
 * edit my profile.
 * delete my profile.
-* add, edit, delete image of  Recipe.
-* add , edit, delete menu.
-* accapt or reject the order
+* add, edit, and delete the image of  Recipe.
+* add, edit, delete menu.
+* accept or reject the order
 * see all the orders.
 * delete the order.
 * add available booking dates
 * see my financial account and withdraw the amount
-* submit feedback to user.
+* submit feedback to the user.
 
 
 >As a user, I will be able to
-* see home page without account
-* create  an account or login
+* See home page without an account
+* create  an account or log in
 * see all menus 
 * see all chefs 
-* see available booking dates to the chef
-* create a order.
-* edit , delete the order
-* arrive an email confrim and content details of booking 
-* can search by chef name's , price , type of food , Recipe name's 
-* can filter by type food , price , male or female chef 
-* pay online or in person
-* ubmit feedback to the chef
+* see available booking dates for the chef
+* create an order.
+* edit, delete the order
+* arrive an email confirmation and content details of a booking 
+* can search by chef names, price, type of food, Recipe name's 
+* can filter by type of food, price, male or female chef 
+* pay online or in-person
+* submit feedback to the chef
 * get special offers and discounts 
-
 
 ----------------------------------------
 ### flow chart  
@@ -56,14 +55,14 @@ Macato allows users to hire a personal chef to come and cook for them at home in
 --------------------------
 ### User journey :open_book:
 
-* The user can see the home page content info about plateform , see all chefs , see all type of food and menu .
+* The user can see the home page containing info about the platform, see all chefs, and see all types of food and menu.
 * The user can sign up or sign in 
-* when the user login in , you can see your profile 
-* The user can go to chefs page and see all Recipes .
-* when the user need more details for the recipe  you can see the details page of Recipe (content of Cooking equipment and recipe ingredients)
-* when the user need hire a chef , you can go to the chef page and see the availbale dates booking
-* when the user want to create a order , you need to submit form details booking and select paymant to pay .
-* when the user end your order arrive his email conformition details booking. 
+* when the user login in, you can see your profile 
+* The user can go to the chef's page and see all Recipes.
+* when the user needs more details for the recipe  you can see the details page of Recipe (content of Cooking equipment and recipe ingredients)
+* when the user need hire a chef , you can go to the chef page and see the available dates for booking
+* when the user wants to create a order, you need to submit form details booking and select payment to pay.
+* when the user ends your order arrive his email confirmation details booking. 
 
 
 -------------------------------
